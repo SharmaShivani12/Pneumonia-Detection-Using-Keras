@@ -1,14 +1,15 @@
-# Pneumonia_X_RAY_Keras
 
-Dataset: You can get the dataset from below link.
 
-https://www.kaggle.com/datasets/pcbreviglieri/pneumonia-xray-images
+# 🩺 Pneumonia X-Ray Detection using Keras
+Dataset: Kaggle - Pneumonia X-ray Images
 
-I have  mentioned the explanation of the model and libraries I have used in the code.This is to understand the implementation of tensorflow and keras in day today task(here we are dealing with X-Ray images)
+This project demonstrates how TensorFlow and Keras can be applied to real-world medical image classification tasks — specifically detecting pneumonia from chest X-rays.
+I’ve included step-by-step explanations of the model architecture and the libraries used (see Steps_to_be_considered.txt for details).
 
 
 ![image](https://github.com/SharmaShivani12/Pneumonia_X_RAY_Keras/assets/116270548/0dac3ffb-08ed-444d-9fbe-f4dccf1899af)
 
-Credit : Took help from the below kaggle Notebook 
+Credit: Inspired by this Kaggle notebook by @pcbreviglieri.
 
-https://www.kaggle.com/code/pcbreviglieri/covid-19-revisiting-pneumonia-detection
+
+ 
