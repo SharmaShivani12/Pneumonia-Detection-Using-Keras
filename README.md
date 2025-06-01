@@ -9,7 +9,8 @@ I’ve included step-by-step explanations of the model architecture and the libr
 
 ![image](https://github.com/SharmaShivani12/Pneumonia_X_RAY_Keras/assets/116270548/0dac3ffb-08ed-444d-9fbe-f4dccf1899af)
 
-Credit: Inspired by this Kaggle notebook by @pcbreviglieri.
+#Credit: Inspired by this Kaggle notebook by @pcbreviglieri.
+
 
 
  
